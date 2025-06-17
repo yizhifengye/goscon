@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"sync/atomic"
 
-	"github.com/ejoy/goscon/scp"
 	"github.com/xjdrew/glog"
+	"github.com/yizhifengye/goscon/scp"
 )
 
 // ErrNoHost .

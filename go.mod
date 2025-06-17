@@ -1,4 +1,4 @@
-module github.com/ejoy/goscon
+module github.com/yizhifengye/goscon
 
 go 1.23.0
 

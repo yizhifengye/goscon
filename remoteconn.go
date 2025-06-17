@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ejoy/goscon/scp"
+	"github.com/yizhifengye/goscon/scp"
 )
 
 var errConnClosed = errors.New("conn closed")

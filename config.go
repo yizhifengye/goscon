@@ -7,10 +7,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ejoy/goscon/scp"
-	"github.com/ejoy/goscon/upstream"
 	"github.com/spf13/viper"
 	"github.com/xjdrew/glog"
+	"github.com/yizhifengye/goscon/scp"
+	"github.com/yizhifengye/goscon/upstream"
 	yaml "gopkg.in/yaml.v2"
 )
 

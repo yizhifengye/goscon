@@ -14,10 +14,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/ejoy/goscon/scp"
 	"github.com/xjdrew/glog"
 	sproto "github.com/xjdrew/gosproto"
 	"github.com/xtaci/kcp-go"
+	"github.com/yizhifengye/goscon/scp"
 )
 
 type ClientCase struct {

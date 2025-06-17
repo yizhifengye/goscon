@@ -5,9 +5,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ejoy/goscon/scp"
-	"github.com/ejoy/goscon/upstream"
 	"github.com/xjdrew/glog"
+	"github.com/yizhifengye/goscon/scp"
+	"github.com/yizhifengye/goscon/upstream"
 )
 
 var copyPool = sync.Pool{

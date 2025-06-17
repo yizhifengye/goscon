@@ -3,8 +3,8 @@ package main
 import (
 	"net"
 
-	"github.com/ejoy/goscon/scp"
 	"github.com/xjdrew/glog"
+	"github.com/yizhifengye/goscon/scp"
 )
 
 // LocalSCPConn .

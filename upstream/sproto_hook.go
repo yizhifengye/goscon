@@ -1,3 +1,4 @@
+//go:build sproto
 // +build sproto
 
 package upstream
@@ -9,8 +10,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/ejoy/goscon/scp"
 	sproto "github.com/xjdrew/gosproto"
+	"github.com/yizhifengye/goscon/scp"
 )
 
 type sprotoPackage struct {

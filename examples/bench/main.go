@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ejoy/goscon/scp"
 	"github.com/xtaci/kcp-go"
+	"github.com/yizhifengye/goscon/scp"
 )
 
 type Stat struct {

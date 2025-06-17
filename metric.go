@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ejoy/goscon/scp"
 	"github.com/prometheus/client_golang/prometheus"
+	"github.com/yizhifengye/goscon/scp"
 )
 
 var (

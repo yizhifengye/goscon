@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ejoy/goscon/dh64"
 	"github.com/xjdrew/glog"
+	"github.com/yizhifengye/goscon/dh64"
 )
 
 var zeroTime time.Time
